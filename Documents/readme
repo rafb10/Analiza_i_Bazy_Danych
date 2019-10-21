@@ -1,13 +1,24 @@
 
-Struktura katalogow
+Struktura katalogow:
+
 Katalog "Original Data":
-plik dem_score.xlsx
-katalog MetaData
-plik MetaData Guide
+  plik dem_score.xlsx
+  Katalog MetaData:
+    plik MetaData Guide
+    
 Katalog "Documents":
-plik readme
-plik Data Appendix
-Katalog "Analysis Data"
-plik final_data.csv
-Katalog "Command Files"
-plik main.py - 
+  plik readme
+  plik Data Appendix
+  
+Katalog "Analysis Data":
+  plik final_data.csv
+  
+Katalog "Command Files":
+  plik main.py  // plik zawierajacy skrypt przetwarzajacy dane
+  
+  
+
+
+Instrukcja:
+Aby otrzymac plik final_data.csv nalezy skopiowac do jednego katalogu pliki dem_score.xlsx oraz main.py
+a nastepnie uruchomic skrypt main.py
