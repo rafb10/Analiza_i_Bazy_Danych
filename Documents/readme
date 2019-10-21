@@ -1,4 +1,3 @@
-
 Struktura katalogow:
 
 Katalog "Original Data":
@@ -17,6 +16,20 @@ Katalog "Command Files":
   plik main.py  // plik zawierajacy skrypt przetwarzajacy dane
   
   
+  
+Powstanie pliku importowalnego:
+Plik dem_score.xlsx nie byl w zaden sposob modyfikowany przed wczytaniem go do skryptu main.py, poniewaz 
+biblioteka pandas zapewnia funkcje do obslugi rozszerzenia .xlsx
+
+
+
+Przetwarzanie danych
+Calosc przetwarzania danych jest realizowana przez skrypt main.py.
+Etapy przetwarzania w skrypcie main.py:
+  1. wczytanie danych z pliku dem_score.xlsx do data frame
+  2. transpozycja data frame-a
+  3. zapis data frame do pliku final_data.csv
+
 
 
 Instrukcja:
