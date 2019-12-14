@@ -19,7 +19,7 @@ Katalog "Command Files":
   
 Powstanie pliku importowalnego:
 Plik dem_score.xlsx nie byl w zaden sposob modyfikowany przed wczytaniem go do skryptu main.py, poniewaz 
-biblioteka pandas zapewnia funkcje do obslugi rozszerzenia .xlsx
+biblioteka pandas zapewnia funkcje do wczytywania plikow w formacie .xlsx
 
 
 
