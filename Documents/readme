@@ -13,7 +13,7 @@ Katalog "Analysis Data":
   plik final_data.csv
   
 Katalog "Command Files":
-  plik main.py  // plik zawierajacy skrypt przetwarzajacy dane
+  plik main.py  // skrypt przetwarzajacy dane
   
   
   
